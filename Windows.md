@@ -9,6 +9,10 @@ touche 1 | touche 2 | touche 3 | description
  ---: | :--- | - | -
  wind | x | d | a | shutdown
  wind | x | d | r | redémarrer
+ wind | x | y |   | paramètre > système > info sys
+ wind | r |   |   | executer
+ wind | d |   |   | affiche le bureau
+ 
 
 ## executer
 win + r
