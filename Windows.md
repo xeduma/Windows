@@ -60,3 +60,6 @@ netsh interface <ipv4/ipv6>| affiche la config de toutes les interface
 
 ```scp -r coucou pi@192.168.1.1:/home/pi/Minecraft```
 
+## regedit
+winlogon ```HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon```
+
