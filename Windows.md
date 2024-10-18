@@ -5,10 +5,13 @@ Commande utilman.exe :  https://www.malekal.com/reinitialiser-de-passe-oublie-pe
 
 # Raccourcis
 ## executer
-shell:statup                  programme au démarrage    current user
-shell:common startup          programme au démarrage    tous les utilisateurs
-%USERPROFILE%\Desktop         bureau de l'utilisateur actuel
-%temp%                        fichiers temporaires current user
 
-ncpa.cpl                      interfaces réseau
 
+commande | description
+ ---: | :---
+shell:statup | programme au démarrage    current user
+shell:common startup | programme au démarrage    tous les utilisateurs
+%USERPROFILE%\Desktop | bureau de l'utilisateur actuel
+%temp% | fichiers temporaires current user
+
+ncpa.cpl | interfaces réseau
