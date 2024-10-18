@@ -5,6 +5,10 @@ Commande utilman.exe :  https://www.malekal.com/reinitialiser-de-passe-oublie-pe
 
 # Raccourcis
 ## clavier
+touche 1 | touche 2 | touche 3 | description
+ ---: | :--- | ---: | :---
+ wind | x | d | a | shutdown
+ wind | x | d | r | redémarrer
 
 ## executer
 win + r
