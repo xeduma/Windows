@@ -30,6 +30,7 @@ ncpa.cpl | interfaces réseau
 
 
 ## Commande cmd
+Système
 commande système | description
  ---: | :---
 help | Aide
@@ -49,7 +50,7 @@ Get-WmiObject -Class Win32_WinSAT | info système
 msinfo32.exe | info système
 
 
-#Réseau 
+Réseau 
 commande réseau | description
  ---: | :---
 netstat -a -n | affiche les connexion réseau
