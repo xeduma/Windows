@@ -57,6 +57,7 @@ netstat -a -n | affiche les connexion réseau
 tracert www.google.fr | affiche les route des routeur  >    google.fr
 ipconfig | affiche config réseau
 netsh interface <ipv4/ipv6>| affiche la config de toutes les interface
+nslookup | recherche DNS
 
 ```scp -r coucou pi@192.168.1.1:/home/pi/Minecraft```
 
