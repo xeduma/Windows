@@ -3,6 +3,8 @@ Entrer dans le boot menu : https://www.pc83.fr/tools/liste-bios-key-boot-menu-ke
 
 Commande utilman.exe :  https://www.malekal.com/reinitialiser-de-passe-oublie-perdu-windows-utilman-exe/
 
+on boot : shift + F11
+
 # Raccourcis
 ## clavier
 touche 1 | touche 2 | touche 3 | description
