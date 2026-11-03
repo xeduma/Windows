@@ -27,8 +27,9 @@ shell:common startup | programme au démarrage    tous les utilisateurs
 %USERPROFILE%\Desktop | bureau de l'utilisateur actuel
 %temp% | fichiers temporaires current user
 ncpa.cpl | interfaces réseau
-
-
+appwiz.cpl  | unistall program
+compmgmt.msc | gestion ordinateur
+Netplwiz.exe | gestion users
 
 
 ## Commande cmd
