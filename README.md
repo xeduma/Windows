@@ -67,8 +67,11 @@ nslookup | recherche DNS
 ## regedit
 winlogon ```HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon```
 nouvelle valeur de chaine > 'AutoAdminLogon' > 1 > OK
+
 DefaultUserName > user > OK
+
 DefaultPassword > pwd > OK
+
 DefaultDomainName > fqdn > OK
 
 
