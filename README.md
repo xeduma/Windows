@@ -69,9 +69,7 @@ winlogon ```HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winl
 nouvelle valeur de chaine > 'AutoAdminLogon' > 1 > OK
 
 DefaultUserName > user > OK
-
 DefaultPassword > pwd > OK
-
 DefaultDomainName > fqdn > OK
 
 
